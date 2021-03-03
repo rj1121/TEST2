@@ -52,6 +52,8 @@ object WorldCount {
 
 //    val input = "D:\\Test\\words.txt"
 
+    //哦i文件佛i额外金佛i叫我i分解为
+
     demo(input)
   }
 
